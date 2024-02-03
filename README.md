@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Reto 1 - React
 
 Proyecto con React y Vite para la creación de una vista que muestra datos mediante JS, renderizado de listas y JSX.
 
