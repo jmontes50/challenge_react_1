@@ -16,7 +16,7 @@ cd challenge_react_1
 
 ### Instala las dependencias
 
-Recuerda que es necesario instalar las dependencias para que se descarguen en la carpeta node_modules y que el proyecto pueda funcionar correctamente
+Recuerda que es necesario instalar las dependencias para que se descarguen en la carpeta `node_modules` y que el proyecto pueda funcionar correctamente
 
 ```bash
 npm install
